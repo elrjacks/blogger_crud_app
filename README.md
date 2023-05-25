@@ -16,6 +16,8 @@ This is a blog web application that utilizes asp.net MVC
 
 ## CRUD
 
+![bloggerdb entity diagram](https://github.com/elrjacks/blogger_crud_app/assets/74976469/b37aed2e-64a4-4f7e-a9a0-126bbea43674)
+
 ### Create
 
 ### Read
