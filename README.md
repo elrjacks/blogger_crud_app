@@ -1,5 +1,5 @@
 # blogger_crud_app
-##O verview 
+## Overview 
 This is a blog web application that utilizes asp.net MVC
 
 ## MVC 
