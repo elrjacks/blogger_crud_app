@@ -1,25 +1,25 @@
 # blogger_crud_app
-##Overview 
+##O verview 
 This is a blog web application that utilizes asp.net MVC
 
-##MVC 
+## MVC 
 ![mvc diagram]("C:\Users\18124\Downloads\mvc.png")
 
-###Model
+### Model
 
-###View
+### View
 
-###Controller
+### Controller
 
-##asp.NET MVC 
+## asp.NET MVC 
 
-##CRUD
+## CRUD
 
-###Create
+### Create
 
-###Read
+### Read
 
-###Update
+### Update
 
-###Delete 
+### Delete 
 
