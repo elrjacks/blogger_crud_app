@@ -3,7 +3,7 @@
 This is a blog web application that utilizes asp.net MVC
 
 ## MVC 
-![mvc_diagram](https://github.com/elrjacks/blogger_crud_app/assets/74976469/5b1b1cc3-159c-4ba6-98a9-cc4fe4f0f54b)
+![mvc diagram](https://github.com/elrjacks/blogger_crud_app/assets/74976469/7871055b-fe96-4e25-8e97-9ae12528489e)
 
 ### Model
 
